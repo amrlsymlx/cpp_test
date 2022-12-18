@@ -7,5 +7,7 @@ int main() {
   cout << "ABC" << endl;
   cout << "I am learning C++";
 
+  system("pause");
+  
   return 0;
 }
